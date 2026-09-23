@@ -57,4 +57,50 @@ Mi enfoque combina la rigurosidad técnica para mantener la continuidad operativ
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Redes y Hardware:** Cableado estructurado UTP · Configuración de routers y switches · Soporte de laboratorios
+
+**Herramientas y Edición:** Microsoft Office · Herramientas STEAM · Edición de video · Streaming
+
+---
+
+## 💼 Trayectoria profesional
+
+**2022 – 2026 · Analista de TIC y Docente de Informática y Robótica**
+*Unidad Educativa Fiscomisional "La Inmaculada Concepción"*
+Gestión de servidores, mantenimiento de más de 50 equipos, administración del portal web institucional y docencia STEAM.
+
+**2021 · Practicante / Auxiliar de TIC**
+*Gobierno Autónomo Descentralizado del Cantón Bolívar*
+Desarrollo del portal web institucional, despliegue de cableado estructurado y capacitación en Excel avanzado.
+
+**2020 · Asistente de Soporte Técnico y Redes**
+*Área de TIC – Universidad Politécnica Estatal del Carchi (UPEC)*
+Mantenimiento de laboratorios universitarios e instalación de puntos de red UTP.
+
+---
+
+## 🎓 Formación y certificaciones
+
+- 🎓 **Maestría en Innovación Educativa** *(en curso)* – Universidad Técnica del Norte
+- 🎓 **Ingeniería en Ciencias de la Computación** – Universidad Politécnica Estatal del Carchi (2023)
+- 📜 **Diplomado en Psicopedagogía y Neurodidáctica** – Ministerio de Educación (2026)
+- 📜 **Certificación en Educación STEAM** – Ministerio de Educación (2024)
+- 🌎 **Suficiencia en Inglés (Nivel B1)** – UPEC
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&hide_border=true" alt="Estadísticas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&hide_border=true" alt="Lenguajes" />
+</p>
+
+---
+
+<p align="center">
+  <em>📫 ¿Hablamos? Escríbeme a <a href="mailto:sebasjjh18@gmail.com">sebasjjh18@gmail.com</a></em>
+</p>

@@ -66,32 +66,6 @@ Mi enfoque combina la rigurosidad técnica para mantener la continuidad operativ
 
 ---
 
-## 💼 Trayectoria profesional
-
-**2022 – 2026 · Analista de TIC y Docente de Informática y Robótica**
-*Unidad Educativa Fiscomisional "La Inmaculada Concepción"*
-Gestión de servidores, mantenimiento de más de 50 equipos, administración del portal web institucional y docencia STEAM.
-
-**2021 · Practicante / Auxiliar de TIC**
-*Gobierno Autónomo Descentralizado del Cantón Bolívar*
-Desarrollo del portal web institucional, despliegue de cableado estructurado y capacitación en Excel avanzado.
-
-**2020 · Asistente de Soporte Técnico y Redes**
-*Área de TIC – Universidad Politécnica Estatal del Carchi (UPEC)*
-Mantenimiento de laboratorios universitarios e instalación de puntos de red UTP.
-
----
-
-## 🎓 Formación y certificaciones
-
-- 🎓 **Maestría en Innovación Educativa** *(en curso)* – Universidad Técnica del Norte
-- 🎓 **Ingeniería en Ciencias de la Computación** – Universidad Politécnica Estatal del Carchi (2023)
-- 📜 **Diplomado en Psicopedagogía y Neurodidáctica** – Ministerio de Educación (2026)
-- 📜 **Certificación en Educación STEAM** – Ministerio de Educación (2024)
-- 🌎 **Suficiencia en Inglés (Nivel B1)** – UPEC
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
